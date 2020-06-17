@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\aaronwalwyn\.Rider2019.2\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\aaronwalwyn\.Rider2019.2\system\resharper-host\local\Transient\ReSharperHost\v192\SolutionCaches\_OurWorldInData3D.-1351835404.00" t="ExcludeRecursive" />
+    <e p="C:\Users\aaronwalwyn\Workspace\aaronwalwyn\OurWorldInData3D" t="IncludeRecursive">
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="DataSetManager.cs" t="Include" />
+        <e p="Scripts" t="Include">
+          <e p="BillboardTransform.cs" t="Include" />
+          <e p="Core" t="Include">
+            <e p="Search" t="Include">
+              <e p="BoyerMoore.cs" t="Include" />
+            </e>
+          </e>
+          <e p="CoronavirusDataparser.cs" t="Include" />
+          <e p="LatLong.cs" t="Include" />
+          <e p="Location.cs" t="Include" />
+          <e p="LocationData.cs" t="Include" />
+          <e p="LocationsManager.cs" t="Include" />
+          <e p="QuickRotate.cs" t="Include" />
+        </e>
+        <e p="TextMesh Pro" t="Include">
+          <e p="Fonts" t="Include">
+            <e p="LiberationSans - OFL.txt" t="Include" />
+          </e>
+          <e p="Resources" t="Include">
+            <e p="LineBreaking Following Characters.txt" t="Include" />
+            <e p="LineBreaking Leading Characters.txt" t="Include" />
+            <e p="Shaders" t="Include">
+              <e p="TMP_Bitmap-Custom-Atlas.shader" t="Include" />
+              <e p="TMP_Bitmap-Mobile.shader" t="Include" />
+              <e p="TMP_Bitmap.shader" t="Include" />
+              <e p="TMP_SDF Overlay.shader" t="Include" />
+              <e p="TMP_SDF-Mobile Masking.shader" t="Include" />
+              <e p="TMP_SDF-Mobile Overlay.shader" t="Include" />
+              <e p="TMP_SDF-Mobile.shader" t="Include" />
+              <e p="TMP_SDF-Surface-Mobile.shader" t="Include" />
+              <e p="TMP_SDF-Surface.shader" t="Include" />
+              <e p="TMP_SDF.shader" t="Include" />
+              <e p="TMP_Sprite.shader" t="Include" />
+              <e p="TMPro.cginc" t="Include" />
+              <e p="TMPro_Properties.cginc" t="Include" />
+              <e p="TMPro_Surface.cginc" t="Include" />
+            </e>
+          </e>
+          <e p="Sprites" t="Include">
+            <e p="EmojiOne Attribution.txt" t="Include" />
+          </e>
+        </e>
+        <e p="ThirdParty" t="Include">
+          <e p="LowPolyEarth" t="Include">
+            <e p="EarthSpinScript.cs" t="Include" />
+          </e>
+          <e p="Starfield Skybox" t="Include">
+            <e p="Demo" t="Include">
+              <e p="Script" t="Include">
+                <e p="LookCamera.cs" t="Include" />
+              </e>
+            </e>
+          </e>
+        </e>
+      </e>
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="OurWorldInData3D.sln" t="IncludeFlat" />
+      <e p="Packages" t="ExcludeRecursive" />
+      <e p="Temp\bin" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>
