@@ -1,0 +1,1235 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 64bb172ed9fde6e488b1a601bb442f39, type: 3}
+  m_Name: CountryLocationData
+  m_EditorClassIdentifier: 
+  _locations:
+  - _code: AD
+    _name: Andorra
+    _latLon:
+      Lat: 42.546246
+      Long: 1.601554
+  - _code: AE
+    _name: United Arab Emirates
+    _latLon:
+      Lat: 23.424076
+      Long: 53.847816
+  - _code: AF
+    _name: Afghanistan
+    _latLon:
+      Lat: 33.93911
+      Long: 67.70995
+  - _code: AG
+    _name: Antigua and Barbuda
+    _latLon:
+      Lat: 17.060816
+      Long: -61.79643
+  - _code: AI
+    _name: Anguilla
+    _latLon:
+      Lat: 18.220554
+      Long: -63.068615
+  - _code: AL
+    _name: Albania
+    _latLon:
+      Lat: 41.15333
+      Long: 20.168331
+  - _code: AM
+    _name: Armenia
+    _latLon:
+      Lat: 40.0691
+      Long: 45.03819
+  - _code: AN
+    _name: Netherlands Antilles
+    _latLon:
+      Lat: 12.226079
+      Long: -69.06009
+  - _code: AO
+    _name: Angola
+    _latLon:
+      Lat: -11.202692
+      Long: 17.873886
+  - _code: AQ
+    _name: Antarctica
+    _latLon:
+      Lat: -75.25098
+      Long: -0.071389
+  - _code: AR
+    _name: Argentina
+    _latLon:
+      Lat: -38.416096
+      Long: -63.616673
+  - _code: AS
+    _name: American Samoa
+    _latLon:
+      Lat: -14.270972
+      Long: -170.13222
+  - _code: AT
+    _name: Austria
+    _latLon:
+      Lat: 47.51623
+      Long: 14.550072
+  - _code: AU
+    _name: Australia
+    _latLon:
+      Lat: -25.274399
+      Long: 133.77513
+  - _code: AW
+    _name: Aruba
+    _latLon:
+      Lat: 12.52111
+      Long: -69.96834
+  - _code: AZ
+    _name: Azerbaijan
+    _latLon:
+      Lat: 40.143105
+      Long: 47.576927
+  - _code: BA
+    _name: Bosnia and Herzegovina
+    _latLon:
+      Lat: 43.915886
+      Long: 17.679075
+  - _code: BB
+    _name: Barbados
+    _latLon:
+      Lat: 13.193887
+      Long: -59.543198
+  - _code: BD
+    _name: Bangladesh
+    _latLon:
+      Lat: 23.684994
+      Long: 90.35633
+  - _code: BE
+    _name: Belgium
+    _latLon:
+      Lat: 50.503887
+      Long: 4.469936
+  - _code: BF
+    _name: Burkina Faso
+    _latLon:
+      Lat: 12.238333
+      Long: -1.561593
+  - _code: BG
+    _name: Bulgaria
+    _latLon:
+      Lat: 42.733883
+      Long: 25.48583
+  - _code: BH
+    _name: Bahrain
+    _latLon:
+      Lat: 25.930414
+      Long: 50.63777
+  - _code: BI
+    _name: Burundi
+    _latLon:
+      Lat: -3.373056
+      Long: 29.918886
+  - _code: BJ
+    _name: Benin
+    _latLon:
+      Lat: 9.30769
+      Long: 2.315834
+  - _code: BM
+    _name: Bermuda
+    _latLon:
+      Lat: 32.321384
+      Long: -64.75737
+  - _code: BN
+    _name: Brunei
+    _latLon:
+      Lat: 4.535277
+      Long: 114.72767
+  - _code: BO
+    _name: Bolivia
+    _latLon:
+      Lat: -16.290154
+      Long: -63.588654
+  - _code: BR
+    _name: Brazil
+    _latLon:
+      Lat: -14.235004
+      Long: -51.92528
+  - _code: BS
+    _name: Bahamas
+    _latLon:
+      Lat: 25.03428
+      Long: -77.39628
+  - _code: BT
+    _name: Bhutan
+    _latLon:
+      Lat: 27.514162
+      Long: 90.4336
+  - _code: BV
+    _name: Bouvet Island
+    _latLon:
+      Lat: -54.4232
+      Long: 3.413194
+  - _code: BW
+    _name: Botswana
+    _latLon:
+      Lat: -22.328474
+      Long: 24.684866
+  - _code: BY
+    _name: Belarus
+    _latLon:
+      Lat: 53.70981
+      Long: 27.953388
+  - _code: BZ
+    _name: Belize
+    _latLon:
+      Lat: 17.189877
+      Long: -88.49765
+  - _code: CA
+    _name: Canada
+    _latLon:
+      Lat: 56.130367
+      Long: -106.34677
+  - _code: CC
+    _name: Cocos [Keeling] Islands
+    _latLon:
+      Lat: -12.164165
+      Long: 96.87096
+  - _code: CD
+    _name: Congo [DRC]
+    _latLon:
+      Lat: -4.038333
+      Long: 21.758663
+  - _code: CF
+    _name: Central African Republic
+    _latLon:
+      Lat: 6.611111
+      Long: 20.939444
+  - _code: CG
+    _name: Congo [Republic]
+    _latLon:
+      Lat: -0.228021
+      Long: 15.827659
+  - _code: CH
+    _name: Switzerland
+    _latLon:
+      Lat: 46.818188
+      Long: 8.227512
+  - _code: CI
+    _name: "C\uFFFDte d'Ivoire"
+    _latLon:
+      Lat: 7.539989
+      Long: -5.54708
+  - _code: CK
+    _name: Cook Islands
+    _latLon:
+      Lat: -21.236736
+      Long: -159.77766
+  - _code: CL
+    _name: Chile
+    _latLon:
+      Lat: -35.675148
+      Long: -71.54297
+  - _code: CM
+    _name: Cameroon
+    _latLon:
+      Lat: 7.369722
+      Long: 12.354722
+  - _code: CN
+    _name: China
+    _latLon:
+      Lat: 35.86166
+      Long: 104.1954
+  - _code: CO
+    _name: Colombia
+    _latLon:
+      Lat: 4.570868
+      Long: -74.29733
+  - _code: CR
+    _name: Costa Rica
+    _latLon:
+      Lat: 9.748917
+      Long: -83.753426
+  - _code: CU
+    _name: Cuba
+    _latLon:
+      Lat: 21.521757
+      Long: -77.781166
+  - _code: CV
+    _name: Cape Verde
+    _latLon:
+      Lat: 16.002083
+      Long: -24.013197
+  - _code: CX
+    _name: Christmas Island
+    _latLon:
+      Lat: -10.447525
+      Long: 105.69045
+  - _code: CY
+    _name: Cyprus
+    _latLon:
+      Lat: 35.12641
+      Long: 33.42986
+  - _code: CZ
+    _name: Czech Republic
+    _latLon:
+      Lat: 49.817493
+      Long: 15.472962
+  - _code: DE
+    _name: Germany
+    _latLon:
+      Lat: 51.16569
+      Long: 10.451526
+  - _code: DJ
+    _name: Djibouti
+    _latLon:
+      Lat: 11.825138
+      Long: 42.590275
+  - _code: DK
+    _name: Denmark
+    _latLon:
+      Lat: 56.26392
+      Long: 9.501785
+  - _code: DM
+    _name: Dominica
+    _latLon:
+      Lat: 15.414999
+      Long: -61.370975
+  - _code: DO
+    _name: Dominican Republic
+    _latLon:
+      Lat: 18.735693
+      Long: -70.16265
+  - _code: DZ
+    _name: Algeria
+    _latLon:
+      Lat: 28.033886
+      Long: 1.659626
+  - _code: EC
+    _name: Ecuador
+    _latLon:
+      Lat: -1.831239
+      Long: -78.1834
+  - _code: EE
+    _name: Estonia
+    _latLon:
+      Lat: 58.595272
+      Long: 25.013607
+  - _code: EG
+    _name: Egypt
+    _latLon:
+      Lat: 26.820553
+      Long: 30.802498
+  - _code: EH
+    _name: Western Sahara
+    _latLon:
+      Lat: 24.215527
+      Long: -12.885834
+  - _code: ER
+    _name: Eritrea
+    _latLon:
+      Lat: 15.179384
+      Long: 39.782333
+  - _code: ES
+    _name: Spain
+    _latLon:
+      Lat: 40.46367
+      Long: -3.74922
+  - _code: ET
+    _name: Ethiopia
+    _latLon:
+      Lat: 9.145
+      Long: 40.489674
+  - _code: FI
+    _name: Finland
+    _latLon:
+      Lat: 61.92411
+      Long: 25.748152
+  - _code: FJ
+    _name: Fiji
+    _latLon:
+      Lat: -16.578194
+      Long: 179.41441
+  - _code: FK
+    _name: Falkland Islands [Islas Malvinas]
+    _latLon:
+      Lat: -51.796253
+      Long: -59.523613
+  - _code: FM
+    _name: Micronesia
+    _latLon:
+      Lat: 7.425554
+      Long: 150.55081
+  - _code: FO
+    _name: Faroe Islands
+    _latLon:
+      Lat: 61.892635
+      Long: -6.911806
+  - _code: FR
+    _name: France
+    _latLon:
+      Lat: 46.22764
+      Long: 2.213749
+  - _code: GA
+    _name: Gabon
+    _latLon:
+      Lat: -0.803689
+      Long: 11.609444
+  - _code: GB
+    _name: United Kingdom
+    _latLon:
+      Lat: 55.37805
+      Long: -3.435973
+  - _code: GD
+    _name: Grenada
+    _latLon:
+      Lat: 12.262776
+      Long: -61.60417
+  - _code: GE
+    _name: Georgia
+    _latLon:
+      Lat: 42.315407
+      Long: 43.35689
+  - _code: GF
+    _name: French Guiana
+    _latLon:
+      Lat: 3.933889
+      Long: -53.125782
+  - _code: GG
+    _name: Guernsey
+    _latLon:
+      Lat: 49.46569
+      Long: -2.585278
+  - _code: GH
+    _name: Ghana
+    _latLon:
+      Lat: 7.946527
+      Long: -1.023194
+  - _code: GI
+    _name: Gibraltar
+    _latLon:
+      Lat: 36.13774
+      Long: -5.345374
+  - _code: GL
+    _name: Greenland
+    _latLon:
+      Lat: 71.70694
+      Long: -42.6043
+  - _code: GM
+    _name: Gambia
+    _latLon:
+      Lat: 13.443182
+      Long: -15.310139
+  - _code: GN
+    _name: Guinea
+    _latLon:
+      Lat: 9.945587
+      Long: -9.696645
+  - _code: GP
+    _name: Guadeloupe
+    _latLon:
+      Lat: 16.995972
+      Long: -62.067642
+  - _code: GQ
+    _name: Equatorial Guinea
+    _latLon:
+      Lat: 1.650801
+      Long: 10.267895
+  - _code: GR
+    _name: Greece
+    _latLon:
+      Lat: 39.074207
+      Long: 21.824312
+  - _code: GS
+    _name: South Georgia and the South Sandwich Islands
+    _latLon:
+      Lat: -54.42958
+      Long: -36.58791
+  - _code: GT
+    _name: Guatemala
+    _latLon:
+      Lat: 15.783471
+      Long: -90.23076
+  - _code: GU
+    _name: Guam
+    _latLon:
+      Lat: 13.444304
+      Long: 144.79373
+  - _code: GW
+    _name: Guinea-Bissau
+    _latLon:
+      Lat: 11.803749
+      Long: -15.180413
+  - _code: GY
+    _name: Guyana
+    _latLon:
+      Lat: 4.860416
+      Long: -58.93018
+  - _code: GZ
+    _name: Gaza Strip
+    _latLon:
+      Lat: 31.354675
+      Long: 34.308826
+  - _code: HK
+    _name: Hong Kong
+    _latLon:
+      Lat: 22.396427
+      Long: 114.1095
+  - _code: HM
+    _name: Heard Island and McDonald Islands
+    _latLon:
+      Lat: -53.08181
+      Long: 73.50416
+  - _code: HN
+    _name: Honduras
+    _latLon:
+      Lat: 15.199999
+      Long: -86.241905
+  - _code: HR
+    _name: Croatia
+    _latLon:
+      Lat: 45.1
+      Long: 15.2
+  - _code: HT
+    _name: Haiti
+    _latLon:
+      Lat: 18.971188
+      Long: -72.28522
+  - _code: HU
+    _name: Hungary
+    _latLon:
+      Lat: 47.162495
+      Long: 19.503304
+  - _code: ID
+    _name: Indonesia
+    _latLon:
+      Lat: -0.789275
+      Long: 113.921326
+  - _code: IE
+    _name: Ireland
+    _latLon:
+      Lat: 53.41291
+      Long: -8.24389
+  - _code: IL
+    _name: Israel
+    _latLon:
+      Lat: 31.046051
+      Long: 34.851612
+  - _code: IM
+    _name: Isle of Man
+    _latLon:
+      Lat: 54.236107
+      Long: -4.548056
+  - _code: IN
+    _name: India
+    _latLon:
+      Lat: 20.593683
+      Long: 78.96288
+  - _code: IO
+    _name: British Indian Ocean Territory
+    _latLon:
+      Lat: -6.343194
+      Long: 71.87652
+  - _code: IQ
+    _name: Iraq
+    _latLon:
+      Lat: 33.22319
+      Long: 43.67929
+  - _code: IR
+    _name: Iran
+    _latLon:
+      Lat: 32.42791
+      Long: 53.688046
+  - _code: IS
+    _name: Iceland
+    _latLon:
+      Lat: 64.96305
+      Long: -19.020836
+  - _code: IT
+    _name: Italy
+    _latLon:
+      Lat: 41.87194
+      Long: 12.56738
+  - _code: JE
+    _name: Jersey
+    _latLon:
+      Lat: 49.21444
+      Long: -2.13125
+  - _code: JM
+    _name: Jamaica
+    _latLon:
+      Lat: 18.109581
+      Long: -77.29751
+  - _code: JO
+    _name: Jordan
+    _latLon:
+      Lat: 30.585163
+      Long: 36.238415
+  - _code: JP
+    _name: Japan
+    _latLon:
+      Lat: 36.204823
+      Long: 138.25293
+  - _code: KE
+    _name: Kenya
+    _latLon:
+      Lat: -0.023559
+      Long: 37.906193
+  - _code: KG
+    _name: Kyrgyzstan
+    _latLon:
+      Lat: 41.20438
+      Long: 74.7661
+  - _code: KH
+    _name: Cambodia
+    _latLon:
+      Lat: 12.565679
+      Long: 104.99097
+  - _code: KI
+    _name: Kiribati
+    _latLon:
+      Lat: -3.370417
+      Long: -168.73404
+  - _code: KM
+    _name: Comoros
+    _latLon:
+      Lat: -11.875001
+      Long: 43.87222
+  - _code: KN
+    _name: Saint Kitts and Nevis
+    _latLon:
+      Lat: 17.357822
+      Long: -62.782997
+  - _code: KP
+    _name: North Korea
+    _latLon:
+      Lat: 40.33985
+      Long: 127.51009
+  - _code: KR
+    _name: South Korea
+    _latLon:
+      Lat: 35.907757
+      Long: 127.76692
+  - _code: KW
+    _name: Kuwait
+    _latLon:
+      Lat: 29.31166
+      Long: 47.481766
+  - _code: KY
+    _name: Cayman Islands
+    _latLon:
+      Lat: 19.51347
+      Long: -80.566956
+  - _code: KZ
+    _name: Kazakhstan
+    _latLon:
+      Lat: 48.019573
+      Long: 66.92368
+  - _code: LA
+    _name: Laos
+    _latLon:
+      Lat: 19.85627
+      Long: 102.4955
+  - _code: LB
+    _name: Lebanon
+    _latLon:
+      Lat: 33.85472
+      Long: 35.862286
+  - _code: LC
+    _name: Saint Lucia
+    _latLon:
+      Lat: 13.909444
+      Long: -60.978893
+  - _code: LI
+    _name: Liechtenstein
+    _latLon:
+      Lat: 47.166
+      Long: 9.555373
+  - _code: LK
+    _name: Sri Lanka
+    _latLon:
+      Lat: 7.873054
+      Long: 80.7718
+  - _code: LR
+    _name: Liberia
+    _latLon:
+      Lat: 6.428055
+      Long: -9.429499
+  - _code: LS
+    _name: Lesotho
+    _latLon:
+      Lat: -29.609987
+      Long: 28.233608
+  - _code: LT
+    _name: Lithuania
+    _latLon:
+      Lat: 55.169437
+      Long: 23.881275
+  - _code: LU
+    _name: Luxembourg
+    _latLon:
+      Lat: 49.815273
+      Long: 6.129583
+  - _code: LV
+    _name: Latvia
+    _latLon:
+      Lat: 56.879635
+      Long: 24.60319
+  - _code: LY
+    _name: Libya
+    _latLon:
+      Lat: 26.3351
+      Long: 17.22833
+  - _code: MA
+    _name: Morocco
+    _latLon:
+      Lat: 31.791702
+      Long: -7.09262
+  - _code: MC
+    _name: Monaco
+    _latLon:
+      Lat: 43.750298
+      Long: 7.412841
+  - _code: MD
+    _name: Moldova
+    _latLon:
+      Lat: 47.411633
+      Long: 28.369884
+  - _code: ME
+    _name: Montenegro
+    _latLon:
+      Lat: 42.70868
+      Long: 19.37439
+  - _code: MG
+    _name: Madagascar
+    _latLon:
+      Lat: -18.766947
+      Long: 46.869106
+  - _code: MH
+    _name: Marshall Islands
+    _latLon:
+      Lat: 7.131474
+      Long: 171.18448
+  - _code: MK
+    _name: Macedonia [FYROM]
+    _latLon:
+      Lat: 41.608635
+      Long: 21.745275
+  - _code: ML
+    _name: Mali
+    _latLon:
+      Lat: 17.570692
+      Long: -3.996166
+  - _code: MM
+    _name: Myanmar [Burma]
+    _latLon:
+      Lat: 21.913965
+      Long: 95.95622
+  - _code: MN
+    _name: Mongolia
+    _latLon:
+      Lat: 46.862495
+      Long: 103.84666
+  - _code: MO
+    _name: Macau
+    _latLon:
+      Lat: 22.198746
+      Long: 113.54388
+  - _code: MP
+    _name: Northern Mariana Islands
+    _latLon:
+      Lat: 17.33083
+      Long: 145.38469
+  - _code: MQ
+    _name: Martinique
+    _latLon:
+      Lat: 14.641528
+      Long: -61.024174
+  - _code: MR
+    _name: Mauritania
+    _latLon:
+      Lat: 21.00789
+      Long: -10.940835
+  - _code: MS
+    _name: Montserrat
+    _latLon:
+      Lat: 16.742498
+      Long: -62.187366
+  - _code: MT
+    _name: Malta
+    _latLon:
+      Lat: 35.937496
+      Long: 14.375416
+  - _code: MU
+    _name: Mauritius
+    _latLon:
+      Lat: -20.348404
+      Long: 57.55215
+  - _code: MV
+    _name: Maldives
+    _latLon:
+      Lat: 3.202778
+      Long: 73.22068
+  - _code: MW
+    _name: Malawi
+    _latLon:
+      Lat: -13.254308
+      Long: 34.301525
+  - _code: MX
+    _name: Mexico
+    _latLon:
+      Lat: 23.6345
+      Long: -102.55279
+  - _code: MY
+    _name: Malaysia
+    _latLon:
+      Lat: 4.210484
+      Long: 101.97577
+  - _code: MZ
+    _name: Mozambique
+    _latLon:
+      Lat: -18.665695
+      Long: 35.529564
+  - _code: NA
+    _name: Namibia
+    _latLon:
+      Lat: -22.95764
+      Long: 18.49041
+  - _code: NC
+    _name: New Caledonia
+    _latLon:
+      Lat: -20.904305
+      Long: 165.61804
+  - _code: NE
+    _name: Niger
+    _latLon:
+      Lat: 17.607788
+      Long: 8.081666
+  - _code: NF
+    _name: Norfolk Island
+    _latLon:
+      Lat: -29.040834
+      Long: 167.95471
+  - _code: NG
+    _name: Nigeria
+    _latLon:
+      Lat: 9.081999
+      Long: 8.675277
+  - _code: NI
+    _name: Nicaragua
+    _latLon:
+      Lat: 12.865416
+      Long: -85.20723
+  - _code: NL
+    _name: Netherlands
+    _latLon:
+      Lat: 52.132633
+      Long: 5.291266
+  - _code: NO
+    _name: Norway
+    _latLon:
+      Lat: 60.472023
+      Long: 8.468946
+  - _code: NP
+    _name: Nepal
+    _latLon:
+      Lat: 28.394857
+      Long: 84.12401
+  - _code: NR
+    _name: Nauru
+    _latLon:
+      Lat: -0.522778
+      Long: 166.9315
+  - _code: NU
+    _name: Niue
+    _latLon:
+      Lat: -19.054445
+      Long: -169.86723
+  - _code: NZ
+    _name: New Zealand
+    _latLon:
+      Lat: -40.90056
+      Long: 174.88597
+  - _code: OM
+    _name: Oman
+    _latLon:
+      Lat: 21.512583
+      Long: 55.923256
+  - _code: PA
+    _name: Panama
+    _latLon:
+      Lat: 8.537981
+      Long: -80.78213
+  - _code: PE
+    _name: Peru
+    _latLon:
+      Lat: -9.189967
+      Long: -75.01515
+  - _code: PF
+    _name: French Polynesia
+    _latLon:
+      Lat: -17.679743
+      Long: -149.40685
+  - _code: PG
+    _name: Papua New Guinea
+    _latLon:
+      Lat: -6.314993
+      Long: 143.95555
+  - _code: PH
+    _name: Philippines
+    _latLon:
+      Lat: 12.879721
+      Long: 121.77402
+  - _code: PK
+    _name: Pakistan
+    _latLon:
+      Lat: 30.37532
+      Long: 69.345116
+  - _code: PL
+    _name: Poland
+    _latLon:
+      Lat: 51.919437
+      Long: 19.145136
+  - _code: PM
+    _name: Saint Pierre and Miquelon
+    _latLon:
+      Lat: 46.941936
+      Long: -56.27111
+  - _code: PN
+    _name: Pitcairn Islands
+    _latLon:
+      Lat: -24.703615
+      Long: -127.43931
+  - _code: PR
+    _name: Puerto Rico
+    _latLon:
+      Lat: 18.220833
+      Long: -66.59015
+  - _code: PS
+    _name: Palestinian Territories
+    _latLon:
+      Lat: 31.952162
+      Long: 35.233154
+  - _code: PT
+    _name: Portugal
+    _latLon:
+      Lat: 39.39987
+      Long: -8.224454
+  - _code: PW
+    _name: Palau
+    _latLon:
+      Lat: 7.51498
+      Long: 134.58252
+  - _code: PY
+    _name: Paraguay
+    _latLon:
+      Lat: -23.442503
+      Long: -58.443832
+  - _code: QA
+    _name: Qatar
+    _latLon:
+      Lat: 25.354826
+      Long: 51.183884
+  - _code: RE
+    _name: "R\uFFFDunion"
+    _latLon:
+      Lat: -21.11514
+      Long: 55.536385
+  - _code: RO
+    _name: Romania
+    _latLon:
+      Lat: 45.94316
+      Long: 24.96676
+  - _code: RS
+    _name: Serbia
+    _latLon:
+      Lat: 44.01652
+      Long: 21.00586
+  - _code: RU
+    _name: Russia
+    _latLon:
+      Lat: 61.52401
+      Long: 105.318756
+  - _code: RW
+    _name: Rwanda
+    _latLon:
+      Lat: -1.940278
+      Long: 29.873888
+  - _code: SA
+    _name: Saudi Arabia
+    _latLon:
+      Lat: 23.885942
+      Long: 45.079163
+  - _code: SB
+    _name: Solomon Islands
+    _latLon:
+      Lat: -9.64571
+      Long: 160.15619
+  - _code: SC
+    _name: Seychelles
+    _latLon:
+      Lat: -4.679574
+      Long: 55.491978
+  - _code: SD
+    _name: Sudan
+    _latLon:
+      Lat: 12.862807
+      Long: 30.217636
+  - _code: SE
+    _name: Sweden
+    _latLon:
+      Lat: 60.128162
+      Long: 18.643501
+  - _code: SG
+    _name: Singapore
+    _latLon:
+      Lat: 1.352083
+      Long: 103.81984
+  - _code: SH
+    _name: Saint Helena
+    _latLon:
+      Lat: -24.143475
+      Long: -10.030696
+  - _code: SI
+    _name: Slovenia
+    _latLon:
+      Lat: 46.15124
+      Long: 14.995463
+  - _code: SJ
+    _name: Svalbard and Jan Mayen
+    _latLon:
+      Lat: 77.553604
+      Long: 23.670273
+  - _code: SK
+    _name: Slovakia
+    _latLon:
+      Lat: 48.669025
+      Long: 19.699024
+  - _code: SL
+    _name: Sierra Leone
+    _latLon:
+      Lat: 8.460555
+      Long: -11.779889
+  - _code: SM
+    _name: San Marino
+    _latLon:
+      Lat: 43.94236
+      Long: 12.457777
+  - _code: SN
+    _name: Senegal
+    _latLon:
+      Lat: 14.497401
+      Long: -14.452362
+  - _code: SO
+    _name: Somalia
+    _latLon:
+      Lat: 5.152149
+      Long: 46.199615
+  - _code: SR
+    _name: Suriname
+    _latLon:
+      Lat: 3.919305
+      Long: -56.027782
+  - _code: ST
+    _name: "S\uFFFDo Tom\uFFFD and Pr\uFFFDncipe"
+    _latLon:
+      Lat: 0.18636
+      Long: 6.613081
+  - _code: SV
+    _name: El Salvador
+    _latLon:
+      Lat: 13.794185
+      Long: -88.89653
+  - _code: SY
+    _name: Syria
+    _latLon:
+      Lat: 34.802074
+      Long: 38.996815
+  - _code: SZ
+    _name: Swaziland
+    _latLon:
+      Lat: -26.522503
+      Long: 31.465866
+  - _code: TC
+    _name: Turks and Caicos Islands
+    _latLon:
+      Lat: 21.694025
+      Long: -71.79793
+  - _code: TD
+    _name: Chad
+    _latLon:
+      Lat: 15.454166
+      Long: 18.732206
+  - _code: TF
+    _name: French Southern Territories
+    _latLon:
+      Lat: -49.280365
+      Long: 69.34856
+  - _code: TG
+    _name: Togo
+    _latLon:
+      Lat: 8.619543
+      Long: 0.824782
+  - _code: TH
+    _name: Thailand
+    _latLon:
+      Lat: 15.870032
+      Long: 100.99254
+  - _code: TJ
+    _name: Tajikistan
+    _latLon:
+      Lat: 38.861034
+      Long: 71.27609
+  - _code: TK
+    _name: Tokelau
+    _latLon:
+      Lat: -8.967363
+      Long: -171.85588
+  - _code: TL
+    _name: Timor-Leste
+    _latLon:
+      Lat: -8.874217
+      Long: 125.72754
+  - _code: TM
+    _name: Turkmenistan
+    _latLon:
+      Lat: 38.96972
+      Long: 59.55628
+  - _code: TN
+    _name: Tunisia
+    _latLon:
+      Lat: 33.886917
+      Long: 9.537499
+  - _code: TO
+    _name: Tonga
+    _latLon:
+      Lat: -21.178986
+      Long: -175.19824
+  - _code: TR
+    _name: Turkey
+    _latLon:
+      Lat: 38.963745
+      Long: 35.24332
+  - _code: TT
+    _name: Trinidad and Tobago
+    _latLon:
+      Lat: 10.691803
+      Long: -61.222504
+  - _code: TV
+    _name: Tuvalu
+    _latLon:
+      Lat: -7.109535
+      Long: 177.64932
+  - _code: TW
+    _name: Taiwan
+    _latLon:
+      Lat: 23.69781
+      Long: 120.96052
+  - _code: TZ
+    _name: Tanzania
+    _latLon:
+      Lat: -6.369028
+      Long: 34.88882
+  - _code: UA
+    _name: Ukraine
+    _latLon:
+      Lat: 48.379433
+      Long: 31.16558
+  - _code: UG
+    _name: Uganda
+    _latLon:
+      Lat: 1.373333
+      Long: 32.290276
+  - _code: US
+    _name: United States
+    _latLon:
+      Lat: 37.09024
+      Long: -95.71289
+  - _code: UY
+    _name: Uruguay
+    _latLon:
+      Lat: -32.522778
+      Long: -55.765835
+  - _code: UZ
+    _name: Uzbekistan
+    _latLon:
+      Lat: 41.37749
+      Long: 64.58526
+  - _code: VA
+    _name: Vatican City
+    _latLon:
+      Lat: 41.902916
+      Long: 12.453389
+  - _code: VC
+    _name: Saint Vincent and the Grenadines
+    _latLon:
+      Lat: 12.984305
+      Long: -61.287228
+  - _code: VE
+    _name: Venezuela
+    _latLon:
+      Lat: 6.42375
+      Long: -66.58973
+  - _code: VG
+    _name: British Virgin Islands
+    _latLon:
+      Lat: 18.420694
+      Long: -64.63997
+  - _code: VI
+    _name: U.S. Virgin Islands
+    _latLon:
+      Lat: 18.335766
+      Long: -64.89633
+  - _code: VN
+    _name: Vietnam
+    _latLon:
+      Lat: 14.058324
+      Long: 108.2772
+  - _code: VU
+    _name: Vanuatu
+    _latLon:
+      Lat: -15.376706
+      Long: 166.95915
+  - _code: WF
+    _name: Wallis and Futuna
+    _latLon:
+      Lat: -13.768752
+      Long: -177.1561
+  - _code: WS
+    _name: Samoa
+    _latLon:
+      Lat: -13.759029
+      Long: -172.10463
+  - _code: XK
+    _name: Kosovo
+    _latLon:
+      Lat: 42.602634
+      Long: 20.902977
+  - _code: YE
+    _name: Yemen
+    _latLon:
+      Lat: 15.552727
+      Long: 48.516388
+  - _code: YT
+    _name: Mayotte
+    _latLon:
+      Lat: -12.8275
+      Long: 45.166245
+  - _code: ZA
+    _name: South Africa
+    _latLon:
+      Lat: -30.559483
+      Long: 22.937506
+  - _code: ZM
+    _name: Zambia
+    _latLon:
+      Lat: -13.133897
+      Long: 27.849333
+  - _code: ZW
+    _name: Zimbabwe
+    _latLon:
+      Lat: -19.015438
+      Long: 29.154858
